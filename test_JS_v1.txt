@@ -1,0 +1,70 @@
+EDUCATION
+
+SKILLS
+
+EXPERIENCE
+
+John Smith
+Boston, MA (relocating) | 812-499-4354 | John@JohnHS.com
+https://www.linkedin.com/in/john-smith
+
+Champlain College, Burlington, VT 2015 - 2019
+Bachelor of Science Degree in Cybersecurity, Minor in Criminal Justice
+Senior Project: WiFi based Intrusion Detection/Surveillance System
+
+Community College of Vermont, VT — High school Dual Enrollment 2011 - 2014
+
+Development: Git, Python, Javascript, Java, Web Technologies (PHP / HTML/CSS)
+Networking and Systems: TCP/IP, AWS, Linux / Windows Administration, macOS
+
+<REDACTED>, Boston MA
+
+Security Analyst (level I) July 2019 - January 2021
+
+Security Analyst (level Il) January 2021 - Present
+
+e Built and maintained internal tooling which increases team efficiency through automating
+workflows and coordination between analysts to facilitate 24/7 operations. Developed related
+documentation, logging, metrics, and alarms to monitor application health and usage
+statistics.
+
+e Produced custom visualizations and reports from large datasets using Pandas, Elastic Map
+Reduce (EMR), and pySpark to aid in analysis and generate conclusions for customer
+inquiries/incident response.
+
+e Investigated server activity and infrastructure changes in a variety of cloud based
+environments to determine potential security impact and summarize findings in a concise
+manner when escalating for internal review by customers.
+
+<REDACTED>, Burlington VT
+
+General Intern February 2014 - June 2014
+
+Junior Tech/Programmer June 2014 - September 2014
+
+e Used Microsoft tools, such as PowerShell and Visual Basic, to generate inventory reports and
+automate custom application configuration/deployment.
+
+e Deployed Linux and Windows Server based lab environments for experimentation and
+development including many Microsoft technologies such as WSUS, Hyper-V, Active
+directory and WDS.
+
+e Configured, imaged, and wiped client systems using tools including DBAN, Sysprep, and
+Windows Server.
+
+<REDACTED>, Lincoln VT
+
+Web Developer Intern November 2012 - June 2013
+
+e Created custom PHP Wordpress plugins to accommodate client needs and requirements.
+
+e Researched and used ASP.NET to create a web interface for managing legacy application
+with a MS SQL Server database, allowing for the development to stay in house.
+
+<REDACTED>, Bristol VT
+
+Intern Programmer August 2011 - January 2012
+
+e Built multiple tools to improve efficiency and automate workflows within the company using
+the .NET framework, such as a web based internal employee directory and a tool to generate
+shipping labels from a database of newsletter subscribers.

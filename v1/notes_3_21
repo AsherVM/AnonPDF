@@ -1,0 +1,11 @@
+Was succesfully able to input jpeg and get mostly redact jpeg out
+Tool uses tesseract OCR.. 
+
+Tesseract can give coords of text boxes..
+
+Try passing text into PII Detect
+	- Get coords of PII
+	- Replace with "Redacted"
+	- Replace with "<Dynamic fake text/content"
+	- Match font/size
+
